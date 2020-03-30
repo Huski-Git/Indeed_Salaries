@@ -1,0 +1,532 @@
+,job_title,company,location,salary
+22,Data Scientist,Research Foundation of The City University of New...,New York,85000.0
+23,Data Scientist,New York City DEPARTMENT OF TRANSPORTATION,New York,73873.5
+127,Data Scientist,New York City DEPARTMENT OF INVESTIGATION,New York,60172.0
+136,Special Assistant (working title: Research Data Officer 1 –...,,New York,64000.0
+173,Senior Data Scientist,MetroPlus Health Plan,New York,107500.0
+183,"Data Scientist, Office of Talent Research and Data (ORD)",New York City Department of Education .,New York,70370.0
+185,Cyber Data Engineer,New York City DEPT OF INFO TECH & TELECOMM,New York,83250.0
+299,"Senior Data Analyst M/WBE, Enterprise Data Services",,New York,72500.0
+320,"Supervisory Survey Statistician (Regional Survey Manager), G...",US Department of Commerce,New York,88191.0
+371,Senior Counsel for Telecommunications/Artificial Intelligenc...,New York City LAW DEPARTMENT,New York,132630.5
+471,Data Scientist - Work with Analytics and Engineering,Jobspring,New York,275000.0
+570,Power BI Developer / Lake Success / Long Island,Workbridge,New York,155000.0
+571,Data Engineer - Working on Data Science Team,Jobspring,New York,275000.0
+581,Senior Data Engineer / AI Software,Workbridge,New York,160000.0
+626,"Data Science Instructor, Principal Data Scientist",Galvanize Inc,New York,125000.0
+665,VP Data Science,CreditRiskMonitor,New York,175000.0
+1111,Senior Datashare Data Engineer,New York City DEPT OF INFO TECH & TELECOMM,New York,139000.0
+1120,Data Engineer / NYC,Workbridge,New York,175000.0
+1133,Junior Data Engineer- Mission Driven,Jobspring,New York,97500.0
+1136,Data Engineer / Python,Workbridge,New York,130000.0
+1137,Senior Data Engineer,Workbridge,New York,150000.0
+1139,Data Engineer,Jobspring,New York,165000.0
+1144,Deputy Director of Analytics (Data Product & Research),New York City TAXI & LIMOUSINE COMMISSION,New York,67107.5
+1150,Mid Level Data Engineer - Interest in Finance!,Jobspring,New York,140000.0
+1156,Senior Java/Data Engineer,Jobspring,New York,157500.0
+1157,Mid-Level Data Engineer at Travel Company,Jobspring,New York,132500.0
+1160,Junior Data Engineer/Data Analyst working in Education,Jobspring,New York,95000.0
+1162,Senior Data Engineer / Python / MySQL / Redshift,Workbridge,New York,145000.0
+1166,Mid to Senior Level Data Engineer at Healthtech Startup,Jobspring,New York,155000.0
+1167,Senior Data Engineer at Brooklyn Real Estate Startup,Jobspring,New York,132500.0
+1177,Data Engineer,,New York,125000.0
+1204,Senior Data Engineer,,New York,150000.0
+1208,Big Data Engineer (Hadoop/Machine Learning/Cloudera/Databric...,,New York,125000.0
+1209,Senior Data Engineer,,New York,155000.0
+1346,"Data Analyst, PNA",New York City NYC HOUSING AUTHORITY,New York,89349.0
+1361,Data Analyst,University at Buffalo,New York,62500.0
+1410,"Epidemiologist/Data Analyst, Bureau of Immunization",,New York,85132.5
+1414,"Researcher/Data Analyst, Mental Health",,New York,81167.0
+1433,Data Analyst,,New York,78803.0
+1443,Data Analyst (NCU),,New York,62946.5
+1448,Tracking and Monitoring Data Analyst,New York City ADMIN FOR CHILDREN'S SVCS,New York,74092.5
+1455,"Data Analyst, Shop Healthy NYC",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,83652.0
+1464,Program Data Analyst,New York City TAXI & LIMOUSINE COMMISSION,New York,58157.5
+1467,"Data Analyst, DSF",New York City Department of Education .,New York,70370.0
+1486,Compliance Data Analyst,New York City NYC HOUSING AUTHORITY,New York,85132.5
+1491,"Senior Data Analyst, DSF",New York City Department of Education .,New York,92359.0
+1501,"Data Analyst, Bureau of Tuberculosis Control",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,67347.0
+1536,"Data Analyst, Bureau of HIV",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,67347.0
+1544,"Data Analyst and Maven Backup System Administrator, Bureau o...",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,67347.0
+1545,"DATA ANALYST, BUSINESS OPERATIONS",New York City DEPARTMENT OF BUSINESS SERV.,New York,58762.0
+1556,Data Analyst -Policy Analytics,New York City TAXI & LIMOUSINE COMMISSION,New York,50552.0
+1568,Business and Data Analyst Manager,New York City ADMIN FOR CHILDREN'S SVCS,New York,79419.5
+1580,Assistant Director of Data Analytics,New York City DEPT OF INFO TECH & TELECOMM,New York,107997.0
+1599,"Data Analyst, Bureau of Equitable Health Systems",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,81167.0
+1631,Data Analyst - on Data Engineering Team,Jobspring,New York,160000.0
+1634,COMPUTER SYSTEMS MANAGER,,New York,102507.0
+1640,Computer Systems Manager,,New York,130000.0
+1676,Data Analysis and Syndromic Surveillance Analyst,New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,84640.0
+1691,Data Support Analyst,New York City TAXI & LIMOUSINE COMMISSION,New York,55146.0
+1710,Data Analyst,,New York,65710.0
+1736,Data Analyst,,New York,55000.0
+1737,Data Systems Analyst,,New York,110000.0
+1738,Data Analyst,,New York,79590.0
+1740,Health Care Data Analyst,,New York,66007.0
+1778,Junior Project Coordinator,,New York,55000.0
+1818,Analyst | Transportation,New York City OFFICE OF MANAGEMENT & BUDGET,New York,58573.5
+1834,Business Analyst,,New York,102507.0
+1867,Data Analytics Associate/Information Designer,New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,58520.0
+1874,Business Analyst II/Senior Business Analyst,Liberty Mutual Insurance,New York,97200.0
+1882,Contract Analyst,New York City OFFICE OF THE COMPTROLLER,New York,55000.0
+1894,Public Safety Business Analyst,New York City DEPT OF INFO TECH & TELECOMM,New York,112000.0
+1916,Research Scientist (Descriptive Title: Marine Zoologist),SUNY ESF,New York,60000.0
+1919,Assistant Research Scientist (G14) Clinical Genetics 14687OR...,,New York,55330.0
+1925,Scientist (Water Ecology) II,New York City DEPT OF ENVIRONMENT PROTECTION,New York,63324.5
+1934,Senior Research Scientist,University at Buffalo,New York,62500.0
+2008,Post-Doctoral Fellow (one-year position),Research Foundation of The City University of New...,New York,47500.0
+2035,"Deputy Chief, Industrial Pollution Prevention Unit",New York City DEPT OF ENVIRONMENT PROTECTION,New York,74406.5
+2061,"Field Researcher, Bureau of Alcohol and Drug Use, Prevention...",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,81167.0
+2084,Health Physicist,US Department of Veterans Affairs,New York,74834.5
+2107,Compliance Specialist,New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,73848.0
+2115,"Policy Analyst, Center for Health Equity and Community Welln...",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,82752.0
+2118,Research Nurse Practitioner,University at Buffalo,New York,130000.0
+2140,Graduate Training Program,,New York,60000.0
+2145,Lead Data Scientist,,New York,150000.0
+2159,Research Assistant,,New York,41464.0
+2167,Research Development Analyst,IQPC,New York,45000.0
+2169,Post-Doctoral Fellow (one-year position),,New York,47500.0
+2660,Collections Strategist,New York City DEPARTMENT OF FINANCE,New York,135000.0
+2664,Smart Cities Postdoctoral Associates (2020),New York University,New York,75000.0
+2686,"Data Analyst, Bureau of Application Development and Database...",New York City DEPT OF HEALTH/MENTAL HYGIENE,New York,67347.0
+2694,Analysis and Reporting Analyst,New York City NYC HOUSING AUTHORITY,New York,94889.0
+3074,Data Operations Engineer,,New York,115000.0
+3083,"Data Science Online Course Instructor (Part-Time, Contract)",,New York,150000.0
+3145,Senior Scientific Programmer,University at Buffalo,New York,77500.0
+3237,CAD and Records Manager,New York City DEPARTMENT OF TRANSPORTATION,New York,67759.0
+4333,Data Scientist,,Los Angeles,90000.0
+4407,Data Science/Tensorflow/Python/R/Hadoop,Jobspring,Los Angeles,165000.0
+4421,Senior Data Scientist,Jobspring,Los Angeles,170000.0
+4430,Senior Data Scientist,Just Auto Insurance,Los Angeles,160000.0
+4433,Data Developer,Create Music Group,Los Angeles,65000.0
+4564,Big Data Engineer,Jobspring,Los Angeles,170000.0
+4566,Data Engineer/Los Angeles,Jobspring,Los Angeles,200000.0
+4569,Data Engineer/Spark/Flume/AWS,Jobspring,Los Angeles,155000.0
+4570,Senior Back End Data Engineer / 150K,Workbridge,Los Angeles,150000.0
+4577,Data Engineer / Python / Elasticsearch,Jobspring,Los Angeles,162500.0
+4584,Senior Data Engineer,Jobspring,Los Angeles,160000.0
+4586,Lead Data Engineer,Jobspring,Los Angeles,180000.0
+4588,Data Engineer/Python/SQL,Jobspring,Los Angeles,165000.0
+4589,Data Engineer / ETL / AWS / SQL,Jobspring,Los Angeles,145000.0
+4591,Senior Data Engineer/AWS/Python/Spark,Jobspring,Los Angeles,160000.0
+4592,DBA Engineer / BI Developer,Jobspring,Los Angeles,120000.0
+4593,Senior Data Engineer/Java/Scala/Hadoop,Jobspring,Los Angeles,170000.0
+4595,Data Engineer for Financial Firm/Python/SQL/Azure,Jobspring,Los Angeles,170000.0
+4596,Senior Data Engineer / ETL / Spark,Jobspring,Los Angeles,165000.0
+4598,Senior Data Engineer / Python & Spark,Jobspring,Los Angeles,160000.0
+4602,Data Engineer,,Los Angeles,110000.0
+4656,PROGRAM ANALYST,US Department of Veterans Affairs,Los Angeles,97504.5
+4664,Management Analyst,US Department of Veterans Affairs,Los Angeles,84059.5
+4666,Data and Contracts Analyst,Center for Employment Opportunities,Los Angeles,49000.0
+4709,Report Developer,Los Angeles Homeless Services Authority,Los Angeles,62860.0
+4739,Sr. Data Analyst,Workbridge,Los Angeles,97500.0
+4753,ERP / CRM Data Analyst,,Los Angeles,65000.0
+4773,Data Analyst,,Los Angeles,22500.0
+4780,Finance & Data Analyst,,Los Angeles,70000.0
+4792,Growth Hacker,,Los Angeles,80000.0
+4804,Full Charge Bookkeeper,,Los Angeles,50000.0
+4823,Research Lab Specialist,USC,Los Angeles,81245.5
+4840,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES",Los Angeles County Department of Human Resources,Los Angeles,87597.5
+4880,Research Development Analyst,,Los Angeles,55000.0
+4929,Management Analyst I,,Los Angeles,68694.0
+5266,Senior Data Engineer,Jobspring,Los Angeles,170000.0
+5267,Lead Data Engineer,Jobspring,Los Angeles,170000.0
+5268,Machine Learning Engineer,Jobspring,Los Angeles,180000.0
+5269,DevOps Engineer,Workbridge,Los Angeles,125000.0
+5270,Senior Back End Python Engineer for growing AI company,Workbridge,Los Angeles,120000.0
+5272,Python Web Developer / AWS / Microservices,Jobspring,Los Angeles,130000.0
+5339,IT Project Manager – Connected Car,,Los Angeles,120000.0
+5472,Data Scientist Consultant / $130k,Jobspring,Chicago,130000.0
+5479,Data Scientist,Workbridge,Chicago,115000.0
+5541,Data Scientist,,Chicago,95000.0
+5637,"AVP, Senior Data Engineer",Synchrony,Chicago,95000.0
+5639,"AVP, Big Data Engineer",Synchrony,Chicago,95000.0
+5640,"AVP, Big Data Engineer",Synchrony Bank,Chicago,95000.0
+5663,"AVP, Technical Data Engineer Lead",Synchrony,Chicago,110000.0
+5669,Data Engineer / Spark,Jobspring,Chicago,130000.0
+5672,"VP, Technical Data Engineer Lead",Synchrony,Chicago,127500.0
+5690,Big Data Engineer,Jobspring,Chicago,145000.0
+5694,Senior Data Engineer / Fortune 100 Company / Spark and Datab...,Jobspring,Chicago,120000.0
+5695,Senior Data Engineer / $110k,Jobspring,Chicago,100000.0
+5697,Senior Data Engineer / Scala,Jobspring,Chicago,120000.0
+5700,Mid/ Senior Level Data Engineer,Jobspring,Chicago,125000.0
+5712,Lead Python Engineer / Data,Jobspring,Chicago,115000.0
+5743,Data Architect (Senior Role),,Chicago,127500.0
+5788,Management and Program Analyst,US Department of Housing and Urban Development,Chicago,77410.5
+5916,Data Analyst (Master Data Management),,Chicago,90000.0
+5922,Data Analyst,,Chicago,64000.0
+5925,Marketing Data Analyst Consultant,,Chicago,105000.0
+5928,Business Systems and Data Analyst,,Chicago,74500.0
+5930,HVAC Analyst,,Chicago,42500.0
+5933,Data Architect with Data Modeling,,Chicago,120000.0
+5954,Data Manager,MAPSCorps,Chicago,60000.0
+5960,UI Developer (JavaScript - Mandarin Speaking - Will Train),,Chicago,67500.0
+6182,Business Intelligence Development Manager,National Insurance Crime Bureau,Chicago,117500.0
+6267,Sr. BI Analyst,The Bradford Group & Hammacher Schlemmer,Chicago,120000.0
+6301,Lead Technical Support Analyst – ETL/SQL,,Chicago,70000.0
+6306,"Senior Business Analyst, Insurance – Min 5 yrs exp",,Chicago,82500.0
+6310,Board Certified Behavior Analyst,Guiding Light Academy,Chicago,60250.0
+6680,Research Technologist II,"Northwestern University, Feinberg School of Medici...",Chicago,39000.0
+6866,Senior AI Data Science,Jobspring,Chicago,195000.0
+6980,Senior BI Developer / Data Science / Naperville,Workbridge,Chicago,112500.0
+7386,Data Engineer Apprentice | Associates Degree,Digital Creative Institute,Houston,35000.0
+7441,"Data Analyst, Title V Grant",Lee College,Houston,45166.0
+7462,Financial Database Analyst,,Houston,70000.0
+7673,Data Science / Machine Learning Engineer,,Houston,105000.0
+7695,Senior Quality Engineer – Test Data Management,,Houston,100000.0
+7828,Project Manager,,Houston,111600.0
+7829,Trion Technology Lead,,Houston,162000.0
+7833,Global Specialist Cybersecurity - Awareness,,Houston,94860.0
+7874,Statistician,US Department of Health And Human Services,Phoenix,84819.5
+7880,Data Architect,Arizona State University,Phoenix,150000.0
+7887,HRIS Data Analyst Senior,Maricopa Community Colleges,Phoenix,88847.0
+7950,Data Engineer / Java,Jobspring,Phoenix,100000.0
+7982,Business Data Analyst,"Maricopa County, AZ",Phoenix,63783.0
+7984,Healthcare Data Analyst,State of Arizona,Phoenix,60000.0
+7990,Management and Program Analyst,US Department of the Interior,Phoenix,58028.0
+7991,Planning and Research Analyst,Maricopa Community Colleges,Phoenix,59960.0
+7994,SENIOR BUSINESS ANALYST,State of Arizona,Phoenix,70720.0
+7997,Business Data Analyst,CRS Temporary Housing,Phoenix,50000.0
+8002,BUSINESS ANALYST,State of Arizona,Phoenix,77500.0
+8009,Budget and Finance Analyst,"City of Glendale, AZ",Phoenix,78885.0
+8031,Researcher Data Analyst Specialist VII (Job 2371),Arizona Supreme Court,Phoenix,64175.0
+8033,Data Analyst,Education At Work,Phoenix,40000.0
+8039,Jr. SQL Developer,,Phoenix,65000.0
+8176,Data Content Specialist,,Phoenix,50000.0
+8177,Copywriter and Social Media Strategist,,Phoenix,50000.0
+8190,Partner Success Associate,WanderJaunt,Phoenix,45000.0
+8247,Lead Data Scientist,Jobspring,Philadelphia,175000.0
+8251,Data Scientist,Jobspring,Philadelphia,130000.0
+8338,Data Engineer,Jobspring,Philadelphia,115000.0
+8344,Data Engineer,Workbridge,Philadelphia,120000.0
+8346,Junior-Mid Level Data Engineer,Jobspring,Philadelphia,97500.0
+8348,Mid level Data Engineer,Jobspring,Philadelphia,107500.0
+8349,Data Engineer/Spark/Flume/AWS/Data Pipelines,Workbridge,Philadelphia,140000.0
+8351,Lead Data Engineer,Jobspring,Philadelphia,140000.0
+8355,Senior Data Engineer,Jobspring,Philadelphia,125000.0
+8358,Data Engineering,Workbridge,Philadelphia,112500.0
+8359,Sr Machine Learning Engineer,Workbridge,Philadelphia,130000.0
+8360,Senior Data Engineer/Architect,Jobspring,Philadelphia,135000.0
+8365,Data Engineer,,Philadelphia,80000.0
+8379,Data Software Engineer - Data Lake/Data Warehouse,"Computer Enterprises, Inc. (CEI)",Philadelphia,112500.0
+8680,Data Science/Tensorflow/Python/R/Hadoop,Workbridge,Philadelphia,135000.0
+8790,Senior Data Engineer,Jobspring,Philadelphia,120000.0
+8791,Mid-Senior Data Scientist,Workbridge,Philadelphia,140000.0
+8804,Data Scientist,Computer Enterprises,Philadelphia,80000.0
+8814,Data Analyst,Computer Enterprises,Philadelphia,90000.0
+8829,Python Developer – ELK/Machine Learning,Computer Enterprises,Philadelphia,92500.0
+8945,CRM Data Analyst,University of Texas at San Antonio,San Antonio,42605.0
+8960,Master Data Senior Analyst,City of San Antonio,San Antonio,65853.5
+8985,BUDGET ANALYST,US Department of the Air Force,San Antonio,74130.5
+9003,Computer Engineering/Computer Scientist/Electronic Engineer/...,US Department of the Air Force,San Antonio,102361.0
+9127,Computer Vision/Deep Learning Software Engineer,,San Diego,70000.0
+9189,Senior Data Engineer,Jobspring,San Diego,145000.0
+9192,Python Data Engineer/Cloud Based SaaS,Jobspring,San Diego,155000.0
+9194,Data Engineer/Data Analyst,,San Diego,70000.0
+9196,Data Engineer,,San Diego,105000.0
+9238,Senior Program Analyst,San Diego Housing Commission,San Diego,82586.5
+9257,Data Analyst,Samahan Health Centers,San Diego,65000.0
+9259,Entry Level Data Analyst (STEM),,San Diego,65000.0
+9260,Entry- Level Data Analyst,,San Diego,65000.0
+9262,Data Analyst Entry Level (STEM candidates eligible to apply),California Creative Solutions,San Diego,65000.0
+9263,Entry Level Data Analyst,,San Diego,65000.0
+9265,Entry level database developer,California Creative Solutions,San Diego,65000.0
+9266,Jr. SQL Developer,,San Diego,65000.0
+9267,Data Analyst and Microsoft BI Developer,,San Diego,65000.0
+9303,Data Analyst,,San Diego,55000.0
+9304,Data Analyst (STEM background),California Creative Solutions,San Diego,65000.0
+9388,MANAGER,US Department of the Navy,San Diego,175904.0
+9460,Project Engineer,UC San Diego,San Diego,85500.0
+9517,Cyber Engineering,,San Diego,95000.0
+9526,Software Developer,,San Diego,95000.0
+9539,Senior Software Engineer,,San Diego,95000.0
+9541,Sr. Project Manager,,San Diego,95000.0
+9614,Decision Science Analyst,Cottonwood Financial,Dallas,75200.0
+9787,Data Scientist,,Dallas,72500.0
+9793,Data Scientist / Machine Learning Engineer / Software Engine...,,Dallas,72500.0
+9798,Senior Data Analyst - Collibra/Mulesoft,,Dallas,105000.0
+9888,"Computer Vision Engineer, Machine Learning",,Dallas,100000.0
+9911,Data Cloud Developer,Cottonwood Financial,Dallas,72200.0
+9936,Senior Data Cloud Developer,Cottonwood Financial,Dallas,95000.0
+9951,Data Cloud Management and Governance Manager,Cottonwood Financial,Dallas,125000.0
+10006,Data Analyst,"City of Dallas, TX",Dallas,97734.5
+10057,Information Technology Business Analyst V,"City of Dallas, TX",Dallas,97734.5
+10401,BI Developer III,Cottonwood Financial,Dallas,104600.0
+10538,Microservices Development Engineer,Workbridge,Dallas,90000.0
+10562,Executive Sales Assistant,,Dallas,50000.0
+10583,Data Scientist,,San Jose,117500.0
+11073,Junior Data Engineer/Python/C++/Menlo Park,Jobspring,San Jose,107500.0
+11080,Senior Data Engineer / Google Cloud Analytics,Jobspring,San Jose,167500.0
+11086,Big Data Engineer,,San Jose,75000.0
+11109,Senior Data Engineer,,San Jose,147500.0
+11146,Grievance and Appeals Data Analyst,Santa Clara Family Health Plan,San Jose,99766.5
+11245,Analyst I/II- Department of Finance (Debt Management),City of San Jose,San Jose,69139.0
+11298,Senior Marketing Data Anlayst,,San Jose,110000.0
+11319,Sr. Data Analyst - Innovative Health Plan,Universal Healthcare,San Jose,108500.0
+11571,Business Analyst,,San Jose,72500.0
+11714,"Computer Scientist, GS-1550-13 (SRM-MP)",US Department of the Interior,San Jose,123773.0
+11758,"Research Geophysicist, GS-1313-12 (SRM-DEU)",US Department of the Interior,San Jose,104090.5
+11802,Director of Data Science,,San Jose,200000.0
+11807,Mathematical Scientist,,San Jose,150000.0
+11822,Postdoc position in Quantitative Evolutionary Genetics and E...,,San Jose,62700.0
+12103,Senior iOS Developer,,San Jose,160000.0
+12602,Machine Learning Engineer,,San Jose,150000.0
+12677,NodeJS Developer,,San Jose,115000.0
+12682,Python Web Developer,,San Jose,90000.0
+12684,"Adjunct Professors in Business Analytics, FinTech, AI, DevOp...",,San Jose,210000.0
+13046,Data Integration Engineer,,Austin,110000.0
+13047,CRM and Data Engineer (Zoho One),,Austin,57500.0
+13057,Sr. Data Engineer,,Austin,140000.0
+13109,Data Designer - Communications Division,Texas Department of Transportation,Austin,77862.0
+13190,Systems Analyst Sr,Travis County,Austin,79424.5
+13192,IRS PATHWAYS STUDENT INTERNSHIP PROGRAM (Student Trainee-Dat...,US Department of the Treasury,Austin,29962.0
+13244,Supervisory Program Analyst (Budget),US Department of the Army,Austin,126350.5
+13274,Data Analyst,,Austin,80000.0
+13285,Business Analyst I,,Austin,55000.0
+13287,Data Analyst,,Austin,40000.0
+13289,International Product Analyst- Mexico,Indeed,Austin,64000.0
+13294,Operations Analyst - Symitar System and Episys Data Structur...,Austin Telco Federal Credit Union,Austin,55000.0
+13298,Compensation Analyst,Austin ISD,Austin,64397.0
+13306,International Product Analyst- Dutch Markets,Indeed,Austin,64000.0
+13315,"Senior Business Analyst, Manager","Aunt Bertha, a Public Benefit Corp.",Austin,92500.0
+13368,Backend Software Engineer,,Austin,105000.0
+13383,Interdisciplinary,US Department of the Army,Austin,138942.5
+13391,Senior Statistician / Economist - Public Health Research,,Austin,119000.0
+13553,"Data Scientist - Sports Analytics (Full-Time, Entry-Level, S...",,Austin,85000.0
+13606,Product Scientist,Indeed,Austin,129000.0
+13829,Decision Science Analyst,Cottonwood Financial,Fort Worth,75200.0
+13903,Data Scientist,,Fort Worth,90000.0
+13914,Data Cloud Developer,Cottonwood Financial,Fort Worth,72200.0
+13923,Senior Data Cloud Developer,Cottonwood Financial,Fort Worth,95000.0
+13926,Data Cloud Management and Governance Manager,Cottonwood Financial,Fort Worth,125000.0
+13983,Senior Data Analyst - Collibra/Mulesoft,,Fort Worth,105000.0
+13985,Data Analyst Apprentice | Associate Degree Candidates,Digital Creative Institute,Fort Worth,35000.0
+13986,Data Engineering Apprentice | Associates Degree,Digital Creative Institute,Fort Worth,35000.0
+14086,Sr. Data Governance Architect/Engineer,,Fort Worth,162500.0
+14089,Principal Project Engineer - Streamlined Project Delivery an...,North Central Texas Council of Governments,Fort Worth,69415.0
+14145,Data Scientist,,Columbus,85000.0
+14149,Senior Data Scientist,,Columbus,101000.0
+14185,Senior Data Engineer,,Columbus,101000.0
+14186,Data Engineer,,Columbus,60000.0
+14231,Data Analytics Specialist,ALDI,Columbus,62000.0
+14238,Business Analyst,US Department of Defense,Columbus,91328.0
+14249,Annual Giving Data Analyst,The Ohio State University,Columbus,57500.0
+14258,Data Analytics Consultant,The Ohio State University,Columbus,70000.0
+14268,Sr. Business Analyst,,Columbus,103834.0
+14317,Soil Scientist (Direct Hire),US Department of Agriculture,Columbus,52064.0
+14319,Hydrologic Technician,US Department of Agriculture,Columbus,60385.5
+14327,Post Doctoral Researcher,The Ohio State University,Columbus,51500.0
+14485,Data Scientist,,San Francisco,275000.0
+14649,Data Scientist,Jobspring,San Francisco,145000.0
+14720,Senior Data Analyst- Product,,San Francisco,120000.0
+14892,Machine Learning Data Scientist or Bioinformatics Fellow,Buck Institute for Research on Aging,San Francisco,85000.0
+14988,Data Science Manager,Jobspring,San Francisco,172500.0
+15012,Machine Learning Algorithms Engineer,Jobspring,San Francisco,160000.0
+15019,Machine Learning Engineer/San Francisco/Banking/Finance,Jobspring,San Francisco,170000.0
+15043,Manager of Machine Learning,Jobspring,San Francisco,240000.0
+15044,Senior Software Engineer on Data Infrastructure / AI / Suppl...,Workbridge,San Francisco,175000.0
+15047,Data Scientist,,San Francisco,152038.5
+15053,Data Scientist,,San Francisco,60000.0
+15058,Data Scientist,,San Francisco,95000.0
+15061,Sr. Data Scientist,,San Francisco,145000.0
+15083,"Senior Scientist, Pharmacokinetics",Barrington James,San Francisco,150000.0
+15161,Machine Learning Engineer,,San Francisco,165000.0
+15197,Senior AI Backend Engineer,,San Francisco,180000.0
+15337,120 FINANCE - Senior Data Analyst Healthcare,Alameda Alliance,San Francisco,97140.0
+15359,NLP Lead Engineer,,San Francisco,245000.0
+15384,Data Engineer,,San Francisco,145000.0
+15405,Senior Data Engineer,,San Francisco,275000.0
+15490,Data Engineer / Health Care Startup,Workbridge,San Francisco,135000.0
+15493,Data Engineer/San Francisco/Ad/Pipeline,Jobspring,San Francisco,165000.0
+15503,Data Engineer / Digital Media / Sports,Workbridge,San Francisco,150000.0
+15511,Big Data Engineer / Java,Workbridge,San Francisco,155000.0
+15522,Data Engineer,Jobspring,San Francisco,132500.0
+15527,Mid-Level Data Engineer,Jobspring,San Francisco,125000.0
+15534,Data Engineer/Python/Senior/Energy,Jobspring,San Francisco,200000.0
+15540,Data Engineer/Principal/San Francisco/Real Estate/Finance,Jobspring,San Francisco,167500.0
+15543,Data System Engineer / Big Data Engineer / Java,Workbridge,San Francisco,185000.0
+15550,Data Engineer / Senior Software Engineer / Java,Workbridge,San Francisco,165000.0
+15551,Senior Data Engineer / Google Cloud Analytics,Jobspring,San Francisco,167500.0
+15589,Senior Data Engineer,,San Francisco,147500.0
+15604,Big Data Engineer,Tredence,San Francisco,100000.0
+15666,Data Visualization Analyst,,San Francisco,100000.0
+15685,Assistant Scheduler and Data Analyst,California State University,San Francisco,56400.0
+15746,Management Analyst I/II,City of Hayward,San Francisco,96865.5
+15829,Data Analytics Manager,,San Francisco,135000.0
+15846,Operations Analyst,California State University,San Francisco,52800.0
+15857,Community Program Analyst II-In-Home Supportive Services-Agi...,County of San Mateo,San Francisco,94598.5
+15898,Sr. Data Analyst - Innovative Health Plan,Universal Healthcare,San Francisco,108500.0
+15928,UI Developer (JavaScript - Mandarin Speaking - Will Train),,San Francisco,67500.0
+15935,Technical Services Associate,,San Francisco,90000.0
+16038,"Sr. Analyst, Commercial Business Intelligence",,San Francisco,140000.0
+16074,Business Intelligence Lead Analyst,California State University,San Francisco,102000.0
+16505,Secure Research Systems Analyst 4 (0499U),University of California Berkeley,San Francisco,132500.0
+16552,Senior Natural Language AI & Machine Learning Engineer w/ We...,care.coach,San Francisco,127500.0
+16672,Growth Marketing Associate,BuildZoom,San Francisco,90000.0
+16673,Researcher,,San Francisco,115000.0
+16675,Executive Assistant,,San Francisco,105000.0
+17195,Senior iOS Developer,,San Francisco,160000.0
+17223,Postdoctoral Employee,University of California Berkeley,San Francisco,56034.0
+17330,Senior Business Analyst - Insurance Claims,,San Francisco,130000.0
+17389,Research Training Group Postdoctoral Scholar,University of California Berkeley,San Francisco,65065.0
+17572,Senior Back-End Engineer,,San Francisco,250000.0
+17846,Senior Data Scientist,,San Francisco,23000.0
+18696,Data Engineer,Jobspring,Charlotte,125000.0
+18701,Python Data Engineer,Jobspring,Charlotte,120000.0
+18765,Data Analyst,,Charlotte,35000.0
+18917,Application DBA / Data Engineer,DriveCentric,Indianapolis,102500.0
+18934,Research Data Analyst,Indiana University,Indianapolis,63000.0
+18952,Business Systems Consultant Intermediate,State of Indiana,Indianapolis,42042.0
+18957,Marketing Data Analyst,Byrider,Indianapolis,85000.0
+18984,Senior Business Intelligence Analyst,Genesys,Indianapolis,94598.0
+18987,Global Business Analyst - Payroll,Salesforce,Indianapolis,40000.0
+19018,Business Analyst,,Indianapolis,89035.5
+19040,Physician (Public Health),Centers for Disease Control and Prevention,Indianapolis,107629.5
+19323,Senior Data Scientist,Indeed,Seattle,213500.0
+19575,Senior Data Engineer,Liberty Mutual Insurance,Seattle,119300.5
+19891,Systems Data Analyst,,Seattle,85000.0
+19907,Supervisory Management Analyst,US Department of Veterans Affairs,Seattle,148805.0
+19918,Continuous Improvement Specialist,King County,Seattle,104187.0
+19920,RSD Analyst I - MCLE,,Seattle,49452.0
+19953,Management & Program Analyst,US Department of Veterans Affairs,Seattle,99194.5
+19954,MANAGEMENT AND PROGRAM ANALYST,US Department of the Navy,Seattle,61361.5
+19967,CLINICAL DATA ANALYST MANAGER,Seattle Indian Health Board (SIHB),Seattle,90000.0
+19990,Management & Program Analyst - UNICOR,US Department of Justice,Seattle,88231.0
+19998,Senior IT Business Analyst,City of Bellevue,Seattle,92025.5
+19999,SUPV PROGRAM ANALYST,US Department of the Air Force,Seattle,123976.5
+20001,IT Business Analyst Level 1,Hopelink,Seattle,51500.0
+20067,Geographer/Cartographer GS-1370-14 (PR-PERM),US Department of the Interior,Seattle,123976.5
+20069,Geographer/Cartographer GS-1370-14 (PR-DE),US Department of the Interior,Seattle,123976.5
+21001,Ruby on Rails Developer,,Seattle,120000.0
+21017,Technical Writer,,Seattle,90000.0
+21023,Business Intelligence Analyst,Indeed,Seattle,157000.0
+21087,Senior Full Stack Software Engineer,,Seattle,115000.0
+21454,Senior Machine Learning (ML) and Computer Vision (CV) Engine...,,Denver,115000.0
+21491,Data Engineer,,Denver,85000.0
+21538,Program Analyst,US Department of Agriculture,Denver,96738.0
+21546,Compensation Analyst,,Denver,78143.5
+21548,"Program Analyst, GS-0343-11/12 (DEU-CL)",US Department of the Interior,Denver,89769.5
+21566,Program Analyst,US Department of Energy,Denver,115033.0
+21598,Data Analyst,,Denver,65000.0
+21626,Business Analyst,Saunders Construction Inc.,Denver,76000.0
+21659,Systems Administrator/Business Analyst,Littleton Public Schools,Denver,75000.0
+21731,IT Senior Business/Application Analyst,Commerce City,Denver,86418.5
+21801,Data & Reporting Analyst,Astravo,Denver,67500.0
+21802,RMPDS Data Management Analyst II,Rocky Mountain Poison & Drug Safety,Denver,70000.0
+21871,Business Analyst/Scrum Master,Precision Technologies Corp,Denver,60000.0
+21874,Sales Operations Analyst,Agility Recovery,Denver,50000.0
+21877,Business Intelligence Analyst,National Entertainment Network,Denver,73000.0
+21885,HIE Business Analyst,CORHIO,Denver,87500.0
+21887,"Business Analyst, IT",,Denver,70000.0
+21911,Business Intelligence Consultant (Denver),,Denver,120000.0
+21922,"Physical Scientist, GS-1301-09/11/12 (DE/CR)",US Department of Commerce,Denver,83682.0
+21933,Analyst - Assessment & Research G05-G07,Jeffco Public Schools,Denver,83050.0
+22024,Lab Data Systems Administrator - 0029,State of Colorado Job Opportunities,Denver,53976.0
+22038,Source Strategies Analyst,US Department of Defense,Denver,117514.0
+22043,"Hydrologist, GS-1315-09 (TERM-MTL)",US Department of the Interior,Denver,65150.5
+22055,Source Strategies Analyst,National Geospatial-Intelligence Agency,Denver,117514.0
+22126,Sr Building Engineer (Electrician) - Data Center,CBRE,Denver,75000.0
+22341,Software Engineer,,Denver,108000.0
+22391,Senior Electrical Engineer - Spacecraft Command & Data Handl...,,Denver,134000.0
+22523,Business Intelligence Data Specialist (ITDM-Journey) DOH4764,State of Washington Dept. of Health,Washington,87036.0
+22622,Mathematical Statistician - Direct Hire,US Department of Transportation,Washington,120546.0
+22943,Senior Data Scientist,Indeed,Washington,213500.0
+23353,Software Data Operation Engineer,MAQ Software,Washington,77500.0
+23536,Senior Data Engineer,Liberty Mutual Insurance,Washington,119300.5
+23821,Fiscal Information and Data Analyst (FIDA/FS-Budget),State of Washington Health Care Authority,Washington,79572.0
+23824,Data Analyst,Pierce Transit,Washington,78521.5
+23831,Technical Data Analyst,Change Research,Washington,75000.0
+23834,Data Analyst,Village of Wellington,Washington,78521.5
+23838,Investigative Analyst,US Department of Justice,Washington,73609.5
+23839,Student Systems & Support | Data Analyst,Seattle Public Schools,Washington,69139.0
+23854,Systems Data Analyst,,Washington,85000.0
+23865,GIS Analyst & Data Specialist (Data Management Journey),State of Washington Dept. of Ecology,Washington,87036.0
+23890,CLINICAL DATA ANALYST MANAGER,Seattle Indian Health Board (SIHB),Washington,90000.0
+23915,Project Administrator (WMS 1/DBHR),State of Washington Health Care Authority,Washington,69762.0
+23951,SPPR Program Modeling and Analysis Scientist (Natural Resour...,,Washington,68694.0
+23985,Senior IT Business Analyst,City of Bellevue,Washington,92025.5
+23992,IT Business Analyst Level 1,Hopelink,Washington,51500.0
+23999,Management & Program Analyst - UNICOR,US Department of Justice,Washington,88231.0
+24048,SUPV PROGRAM ANALYST,US Department of the Air Force,Washington,123976.5
+24060,Retirement Accounting Analyst Senior,Snohomish County,Washington,86729.5
+24219,Budget Analyst,City of Bremerton,Washington,87902.0
+24264,Community Corrections Caseworker (SDA or TLT),King County,Washington,84146.0
+24284,Casino Property Analyst,Spokane Tribe Casino,Washington,60000.0
+24457,Geographer/Cartographer GS-1370-14 (PR-PERM),US Department of the Interior,Washington,123976.5
+24460,Geographer/Cartographer GS-1370-14 (PR-DE),US Department of the Interior,Washington,123976.5
+24480,State Lands Silviculture Scientist,State of Washington Dept. of Natural Resources,Washington,69690.0
+24561,CIVIL ENGINEER,US Department of the Army,Washington,81875.0
+24776,Operations Research Specialist (ORS/CQCT),State of Washington Health Care Authority,Washington,83724.0
+25229,Social Data Media engineer,,Washington,100000.0
+25300,Business Intelligence Analyst,,Washington,71500.0
+25413,Technical Writer,,Washington,90000.0
+25434,Ruby on Rails Developer,,Washington,120000.0
+25440,Business Intelligence Analyst,Indeed,Washington,157000.0
+25481,Sales & Marketing Operations Manager,,Washington,65000.0
+25619,"Data Scientist, Office of Data Science",Liberty Mutual Insurance,Boston,113750.0
+25626,Data Scientist,,Boston,102500.0
+25695,Senior Crime Data Analyst,Suffolk DA Office,Boston,67500.0
+25699,"Analyst I/II, Data Science",Liberty Mutual Insurance,Boston,113750.0
+25718,Data Analyst,Operational Services Division,Boston,70991.5
+25744,Lead Data Scientist,,Boston,135000.0
+25745,"Assistant Director/Director I, Data Science",Liberty Mutual Insurance,Boston,145300.0
+25764,"Director I, Data Science-Marketing Analytics",Liberty Mutual Insurance,Boston,145200.0
+26007,Data Engineer with Machine Learning and AI,Workbridge,Boston,135000.0
+26070,Data Scientist (Full-Time),,Boston,112500.0
+26079,Data Scientist,,Boston,67500.0
+26095,Data Engineer,,Boston,117500.0
+26130,Machine Learning Researcher,,Boston,135000.0
+26316,Global Data Engineer,Anheuser-Busch,Boston,111150.0
+26344,Software Developer and Data Engineer I,Boston Public Health Commission,Boston,65000.0
+26360,Senior Data Engineer,Liberty Mutual Insurance,Boston,112500.0
+26408,Data Engineer,Jobspring,Boston,140000.0
+26425,Data Engineer for Cutting-Edge AI Lab,Workbridge,Boston,150000.0
+26428,Senior Data Engineer for Leading Biomed Company that Receive...,Workbridge,Boston,150000.0
+26429,Senior Data Engineer – Data Optimization and Travel Analytic...,Workbridge,Boston,132500.0
+26435,Backend Data Engineer,,Boston,145000.0
+26454,Cloud Data Engineer------------10+Yrs----------MA,,Boston,95000.0
+26483,Data Analyst,,Boston,55000.0
+26518,Data Analyst,Exec Office of Technology Services and Security,Boston,64342.5
+26579,Data Analyst and IT Systems Specialist,Board of Library Commissioners,Boston,70991.5
+26648,Health Services Executive Assistant,Planned Parenthood League of Massachusetts,Boston,48500.0
+26688,Senior Business Analyst,Liberty Mutual Insurance,Boston,106100.0
+26728,EDM Business Analyst,E.O. Health & Human Services,Boston,100719.0
+26766,Lead Business Analyst - Fixed Income,,Boston,150000.0
+26838,"Manager II, Business Analysis",Liberty Mutual Insurance,Boston,137000.0
+26862,"Director I, Data Science, GRS Predictive Analytics Team",Liberty Mutual Insurance,Boston,152750.0
+26915,UI Developer (JavaScript - Mandarin Speaking - Will Train),,Boston,67500.0
+26949,Director of Enterprise Applications & Business Intelligence,Boston Public Health Commission,Boston,115000.0
+26964,Edp Systems Analyst III,DOR Child Support,Boston,78081.5
+26983,Senior Business Analyst,E.O. Health & Human Services,Boston,100719.0
+27291,Full Time or Part Time Board Certified Behavior Analyst (BCB...,,Boston,72500.0
+27312,Board Certified Behavior Analyst (BCBA) / Clinical Superviso...,,Boston,76000.0
+27388,Policy and Research Analyst,Office of the Child Advocate,Boston,65000.0
+27393,Astrophysicist,US Other Agencies and Independent Organizations,Boston,62371.0
+27411,Mechatronics Engineer,Source Technology,Boston,115000.0
+27448,"Interdisciplinary (Biologist, Ecologist, Civil Eng, Env Eng,...",US Department of the Army,Boston,65767.0
+27449,Regional Planner V,Department of Environmental Protection,Boston,93309.0
+27459,Environmental Analyst IV,DCR - Urban Parks & Recreation,Boston,86434.0
+27485,Director of Natural Resources,DCR - Urban Parks & Recreation,Boston,93309.0
+27499,Assistant Dam Safety Permit Engineer,DCR - Engineering and Planning,Boston,86434.0
+27521,Environmental Analyst III,Department of Environmental Protection,Boston,79207.5
+27672,Data Center Facilities Engineer,Exec Office of Technology Services and Security,Boston,78081.5
+28138,Software Engineer - Big Data at Startup in Downtown Boston,Workbridge,Boston,112500.0
+28229,Principal UI Engineer (Data Visualization),Pegasystems,Boston,145000.0
+28240,Sr. Software Engineer (Data Engineering),Teikametrics,Boston,140000.0
+28459,Business Analyst,Border International,El Paso,45000.0
+29023,"Data Governance Data Analyst (System Application Analyst, Sr...",Oregon Health & Science University,Portland,90158.5
+29026,Research Associate (Research Statistician),Oregon Health & Science University,Portland,41812.0
+29071,Data Analyst,,Portland,57500.0
+29072,"Data Engineer, Advanced Analytics",BICP,Portland,125000.0
+29080,"Lead Data Engineer, Enterprise Modernization",BICP,Portland,145000.0
+29095,PBM Business Data Analyst 3,Oregon Health & Science University,Portland,82623.5
+29107,Business Data Analyst,,Portland,100000.0
+29109,Health Services Research Analyst,VA Portland Health Care System,Portland,67082.0
+29132,Business Intelligence Analyst/ETL Developer (Application Eng...,Oregon Health & Science University,Portland,90158.5
+29146,SAP GTS (Global Trade Services) Business Analyst,,Portland,127500.0
+29167,Entry Level Business Intelligence Analyst (STEM),,Portland,65000.0
+29192,"Hydrologist, GS-1315-11/12 (DEU-MTL)",US Department of the Interior,Portland,87375.5
+29196,Research Assistant 2,Oregon Health & Science University,Portland,40284.0
+29202,CD2H Evaluator (Research Associate),Oregon Health & Science University,Portland,53000.0
+29247,Research Analytics and Big Data Manager,Oregon Health & Science University,Portland,118343.0
+29336,"BI Engineer, Azure Data Lake",BICP,Portland,115000.0
